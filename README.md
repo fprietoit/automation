@@ -1,2 +1,2 @@
 # automation
-automation for fprietodev
+automation for fprieto
